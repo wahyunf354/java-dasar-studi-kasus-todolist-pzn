@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b66a161a-f441-4a78-a207-8a28d84dd8b2" name="Changes" comment="">
+    <list default="true" id="b66a161a-f441-4a78-a207-8a28d84dd8b2" name="Changes" comment="Selesai Studi Kasus Todo List">
       <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
@@ -103,14 +103,35 @@
       <workItem from="1677569166211" duration="908000" />
       <workItem from="1677592349328" duration="1118000" />
       <workItem from="1677593482805" duration="718000" />
-      <workItem from="1677594220864" duration="3728000" />
+      <workItem from="1677594220864" duration="4072000" />
     </task>
+    <task id="LOCAL-00001" summary="Selesai Studi Kasus Todo List">
+      <created>1677598298008</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1677598298008</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Selesai Studi Kasus Todo List" />
+    <option name="LAST_COMMIT_MESSAGE" value="Selesai Studi Kasus Todo List" />
   </component>
 </project>
